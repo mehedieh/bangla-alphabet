@@ -4,8 +4,8 @@ from fpdf import FPDF
 class bangla_character_worksheet_generator():
     pdf = FPDF()
     # Basic settings
-    pdf.add_font('Shamim Cholontika Unicode', '', 'Shamim Cholontika Unicode.ttf', uni=True)
-    pdf.set_font("Shamim Cholontika Unicode", size=30)
+    pdf.add_font('Shamim Cholontika', '', 'Shamim Cholontika.ttf', uni=True)
+    pdf.set_font("Shamim Cholontika", size=30)
     size = 19
     num_x_cell = 14
     num_y_cell = 8
