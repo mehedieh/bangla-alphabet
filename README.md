@@ -2,6 +2,8 @@
 
 Create worksheet to practice writing Bangla in grid format. Perfect tool for kids and the beginners.
 
+[![Run on Repl.it](https://repl.it/badge/github/mehedieh/bangla-alphabet)](https://repl.it/github/mehedieh/bangla-alphabet)
+
 ## Font Credit
 
 ![Lipighor](https://lipighor.com/ShamimCholontika.html) 
