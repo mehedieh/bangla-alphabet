@@ -16,6 +16,10 @@ The grid system helps someone learning the language to write the characters in t
 ## How to Use
 1. Edit the file `text` with the list of characters of your choice (or use the sample). Note that you need to supply 14 characters on each line.
 ```
+কখগঘঙচছজঝঞ
+টঠডঢণতথদধন
+পফবভমযরলশষ
+সহড়ঢ়য়ৎ
 
 ```
 2. Generate the worksheet in pdf format with the following command:
