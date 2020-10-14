@@ -6,7 +6,7 @@ Create worksheet to practice writing Bangla in grid format. Perfect tool for kid
 
 ## Font Credit
 
-![Lipighor](https://lipighor.com/ShamimCholontika.html) 
+[![Lipighor](https://lipighor.com/ShamimCholontika.html)]
 
 ## Benefits of Grid System
 The grid system helps someone learning the language to write the characters in the proper size and orientation. The grid system gives a worksheet for the new learner to practice writing the characters.
