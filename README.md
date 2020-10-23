@@ -20,7 +20,7 @@ The grid system helps someone learning the language to write the characters in t
 2. [fpdf](https://pypi.org/project/fpdf/)
 
 ## How to Use
-1. Edit the file `text` with the list of characters of your choice (or use the sample). Note that you need to supply 14 characters on each line.
+1. Edit the file `text` with the list of characters of your choice (or use the sample). Note that you need to supply 9 characters on each line.
 ```
 কখগঘঙচছজঝঞ
 টঠডঢণতথদধন
