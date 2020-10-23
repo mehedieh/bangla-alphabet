@@ -7,8 +7,8 @@ class bangla_character_worksheet_generator():
     pdf.add_font('Shamim Cholontika', '', 'Shamim Cholontika.ttf', uni=True)
     pdf.set_font("Shamim Cholontika", size=30)
     size = 19
-    num_x_cell = 14
-    num_y_cell = 8
+    num_x_cell = 9
+    num_y_cell = 4
     file = "text"  # Seed filename; each line should contain the exact number of characters as defined in num_x_cell
 
     def read_file(self):
